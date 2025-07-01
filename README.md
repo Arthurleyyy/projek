@@ -10,8 +10,8 @@ Aplikasi web ini dibuat dengan PHP untuk memungkinkan masyarakat menyampaikan pe
 ## Teknologi yang Digunakan
 * PHP
 * [Framework PHP yang digunakan:Laravel]
-* [Database, misalnya: MySQL]
-* [Frontend, misalnya: PHP, CSS, JavaScript]
+* [Database: MySQL]
+* [Frontend:HTML, CSS, JavaScript, PHP]
 
 ## Cara Menjalankan
 1.  Konfigurasi database (sesuaikan dengan pengaturan database Anda).
