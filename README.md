@@ -20,4 +20,4 @@ Aplikasi web ini dibuat dengan PHP untuk memungkinkan masyarakat menyampaikan pe
 3.  Jalankan server PHP.
 
 ## Link
-* Kode Sumber: [[https://github.com/Arthurleyyy/nama-repo-pengaduan](https://github.com/Arthurleyyy/nama-repo-pengaduan)](https://github.com/Arthurleyyy/projek/tree/main/pengaduan_masyarakat)
+* Kode Sumber:(https://github.com/Arthurleyyy/projek/tree/main/pengaduan_masyarakat)
