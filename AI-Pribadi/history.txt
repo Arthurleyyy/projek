@@ -1,0 +1,15 @@
+[2025-06-29 20:58:12] Kamu: 
+[2025-06-29 20:58:12] AI: 
+
+[2025-06-29 20:58:33] Kamu: Saya lapar | ke Inggris
+[2025-06-29 20:58:33] AI: I'm hungry
+
+[2025-06-29 20:58:54] Kamu: 2+2=?
+[2025-06-29 20:58:54] AI: The answer to 2+2 is... 4!
+
+[2025-06-29 20:59:43] Kamu: halo, apa kabar?
+[2025-06-29 20:59:43] AI: Halo! Kebetulan saya tidak memiliki kabar pribadi, karena saya adalah sebuah program komputer berbasis AI. Tapi saya siap membantu menjawab pertanyaan atau berdiskusi tentang berbagai topik yang Anda minati!
+
+[2025-06-29 21:01:59] Kamu: Saya lapar | ke Inggris
+[2025-06-29 21:01:59] AI: I'm hungry
+
